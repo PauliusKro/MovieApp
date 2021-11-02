@@ -1,0 +1,19 @@
+<resources>
+    <!--  login  -->
+    <string name="app_name">Movie-app</string>
+    <string name="app_title">Online movie database!</string>
+    <string name="login_remember">Remember Me</string>
+    <string name="login_username">Username...</string>
+    <string name="login_password">Password...</string>
+    <string name="login_register">Register</string>
+    <string name="login_login">Login</string>
+    <string name="login_invalid_username">Wrong username</string>
+    <string name="login_invalid_password">Wrong password</string>
+    <!--    register  -->
+    <string name="register_username">Username...</string>
+    <string name="register_email">Email...</string>
+    <string name="register_password">Password...</string>
+    <!--  search activity  -->
+    <string name="search_loading_data">Please wait for movie app data to be displayed</string>
+    <string name="search_error_reading_data">Couldn\'t read data from API. For more information: </string>
+</resources>
